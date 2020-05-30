@@ -1,0 +1,14 @@
+certifi==2020.4.5.1
+chardet==3.0.4
+conllu==3.0
+elasticsearch==7.7.1
+idna==2.9
+joblib==0.15.1
+numpy==1.18.4
+pymystem3==0.2.0
+requests==2.23.0
+scikit-learn==0.23.1
+scipy==1.4.1
+sklearn==0.0
+threadpoolctl==2.1.0
+urllib3==1.25.9
