@@ -6,7 +6,7 @@ from property_extraction import PropertyExtractor
 from query_generation import QueryGenerator
 
 
-class KBQAModel:
+class RuBQBaseline:
     def __init__(self, syntactic_parser, es_instance, index_name='wikidata_entities', sparql_executor=None):
         self.entity_recognizer = EntityRecognizer(syntactic_parser)
         self.entity_linker = EntityLinker(es_instance, index_name)
