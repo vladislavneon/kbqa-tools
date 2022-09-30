@@ -3,7 +3,7 @@ chardet==3.0.4
 conllu==3.0
 elasticsearch==7.7.1
 idna==2.9
-joblib==0.15.1
+joblib==1.2.0
 numpy==1.18.4
 pymystem3==0.2.0
 requests==2.23.0
